@@ -15,7 +15,7 @@ Overcoming Source Object Grounding for Semantic Image Editing
 
 <code>\`\`\`
 ## 📦 Repository layout
----
+
 
 r-sie/
 ├─ src/                # source codes
@@ -28,7 +28,7 @@ r-sie/
 > - **`code for data generation process** – automatic triplet generation (code & instructions)  🚧  
 > - **`test_sets/`** – links to the cleaned evaluation splits  🚧  
 > - **`requirements`** – required packages to run codes  🚧  
----
+
 
 ## 🔧 Prerequisites
 
