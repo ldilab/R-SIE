@@ -13,7 +13,7 @@ Overcoming Source Object Grounding for Semantic Image Editing
 <img src="docs/teaser.png" width="640"/>
 </div>
 
-
+<code>
 ## 📦 Repository layout
 ---
 
@@ -21,7 +21,7 @@ r-sie/
 ├─ src/                # source codes
 │   └─ RwDP_pipeline.py     # huggingface diffusers pipeline for region-wise diffusion process
 └─ README.md
-
+<code>
 
 
 > **Planned additions**
