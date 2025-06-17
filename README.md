@@ -9,8 +9,9 @@ Overcoming Source Object Grounding for Semantic Image Editing
 > separates background reconstruction from object manipulation, eliminating
 > the grounding errors that plague prior SIE pipelines.
 
+
 <div align="center">
-<img src="docs/teaser.png" width="640"/>
+<img src="teaser.png" width="640"/>
 </div>
 
 <code>\`\`\`
