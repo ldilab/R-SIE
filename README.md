@@ -23,7 +23,7 @@ r-sie/
 │   └─ RwDP_pipeline.py     # huggingface diffusers pipeline for region-wise diffusion process
 └─ README.md
 
-````
+
 
 > **Planned additions**
 > - **`code for data generation process** – automatic triplet generation (code & instructions)  🚧  
