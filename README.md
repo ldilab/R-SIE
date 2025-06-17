@@ -14,7 +14,6 @@ Overcoming Source Object Grounding for Semantic Image Editing
 <img src="docs/teaser.png" width="640"/>
 </div>
 
----
 
 ## 📦 Repository layout
 
