@@ -14,21 +14,19 @@ Overcoming Source Object Grounding for Semantic Image Editing
 <img src="teaser.png" width="640"/>
 </div>
 
-<code>\`\`\`
+
 ## 📦 Repository layout
-
-
+```text
 r-sie/
 ├─ src/                # source codes
 │   └─ RwDP_pipeline.py     # huggingface diffusers pipeline for region-wise diffusion process
 └─ README.md
-<code>
+```
 
-
-> **Planned additions**
-> - **`code for data generation process** – automatic triplet generation (code & instructions)  🚧  
-> - **`test_sets/`** – links to the cleaned evaluation splits  🚧  
-> - **`requirements`** – required packages to run codes  🚧  
+## Planned additions
+- **code for data generation process** – automatic triplet generation (code & instructions)  🚧  
+- **test_sets/** – links to the cleaned evaluation splits  🚧
+- **requirements** – required packages to run codes  🚧  
 
 
 ## 🔧 Prerequisites
@@ -57,5 +55,3 @@ license.
 Open an issue or e-mail **[y970120@snu.ac.kr](mailto:y970120@snu.ac.kr)**.
 We welcome pull requests for bug-fixes or documentation!
 
-```
-```
