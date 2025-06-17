@@ -1,8 +1,7 @@
 # R-SIE
 This repo provides the official code of TACL paper:
 Overcoming Source Object Grounding for Semantic Image Editing
-```markdown
-# R-SIE 🍰  — Region-wise Diffusion for Semantic Image Editing
+---
 > Official implementation (PyTorch + diffusers) of  
 > **“Overcoming Source-Object Grounding for Semantic Image Editing”**  
 > accepted to *TACL* (2025).  
@@ -17,7 +16,7 @@ Overcoming Source Object Grounding for Semantic Image Editing
 
 ## 📦 Repository layout
 
----
+
 
 r-sie/
 ├─ src/                # source codes
