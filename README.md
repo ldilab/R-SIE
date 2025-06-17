@@ -17,7 +17,7 @@ Overcoming Source Object Grounding for Semantic Image Editing
 
 ## 📦 Repository layout
 
-
+---
 
 r-sie/
 ├─ src/                # source codes
